@@ -35,7 +35,7 @@ When implementation is added, keep the README synchronized with tracked paths an
 
 ## Maintenance & Audit
 
-- **Audit date:** 11 November 2026
+- **Audit date:** 21 November 2026
 - **Documentation status:** Initial README created as part of the portfolio maintenance audit.
 - **Scope:** Documentation entry point only. Source files, dependencies, build status, and runtime behavior have not been independently validated in this README update.
 - **Maintenance note:** Documentation baseline recorded through 11 November 2026. This is not a claim that the project is fully tested or production-ready.
